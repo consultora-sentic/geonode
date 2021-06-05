@@ -128,11 +128,11 @@ django-ipware<3.1
 pycountry
 
 # production
-uWSGI==2.0.19.1
-gunicorn==20.1.0
-ipython==7.23.1
-docker==4.4.4
-invoke==1.5.0
+#uWSGI==2.0.19.1
+#gunicorn==20.1.0
+#ipython==7.23.1
+#docker==4.4.4
+#invoke==1.5.0
 
 # tests
 coverage==5.5
